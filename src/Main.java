@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String password = "Amin777@34";
+        String password = "Elman777@34";
 
         String encrypted = Encryptor.encrypt(password);
 
